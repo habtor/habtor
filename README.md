@@ -5,9 +5,10 @@ A tech enthusiast passionate about technology and web development with a continu
 
   <img src="https://github-readme-stats.vercel.app/api?username=habtor&show_icons=true&theme=react&rank_icon=github&&&hide=stars,issues" alt="Anurag's GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habtor&size_weight=0.5&count_weight=0.5">
-<!--p align="center" >
+
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habtor&size_weight=0.5&count_weight=0.5">
-</p>-->
+</p>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=habtor&repo=Weather)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,6 +17,7 @@ A tech enthusiast passionate about technology and web development with a continu
 <div align=center>
   <img src="https://streak-stats.demolab.com/?user=habtor)">
 </div>
+
 <div align=center>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,mysql,mongodb,react,tailwind,figma,git,kali,bash">
 </div>
