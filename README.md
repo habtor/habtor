@@ -13,4 +13,4 @@ A tech enthusiast passionate about technology and web development with a continu
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=habtor&repo=Weather)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=habtor)](https://git.io/streak-stats)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,npm,mysql,mongodb,react,tailwind,figma,git,kali,bash)](https://skillicons.dev)
