@@ -11,7 +11,7 @@ A tech enthusiast passionate about technology and web development with a continu
 </p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=habtor&repo=Weather)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=habtor&repo=Weather)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <div align=center>
