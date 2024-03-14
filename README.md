@@ -20,7 +20,8 @@ A tech enthusiast passionate about technology and web development with a continu
 </div>
 
 <h4 align="center" > Contact me </h4>
-<div align=center>
-  <a href="https://www.linkedin.com/in/saleheh/"
-  <img src="https://skillicons.dev/icons?i=linkedin">>
+<div align="center">
+  <a href="https://www.linkedin.com/in/saleheh/">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
 </div>
