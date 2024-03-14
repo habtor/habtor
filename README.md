@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habtor&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=habtor&repo=Weather)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habtor)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habtor&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habtor&exclude_repo=github-readme-stats,anuraghazra.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habtor&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
