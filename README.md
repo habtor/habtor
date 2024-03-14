@@ -19,7 +19,7 @@ A tech enthusiast passionate about technology and web development with a continu
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,mysql,mongodb,react,tailwind,figma,git,kali,bash&perline=5">
 </div>
 
-<h4 align="center" > Contact me </h4>
+<u><h4 align="center" > Contact me </h4></u>
 <div align="center">
   <a href="https://www.linkedin.com/in/saleheh/">
     <img src="https://skillicons.dev/icons?i=linkedin">
