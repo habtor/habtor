@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Saleh,
-A tech enthusiast passionate about technology and web development with a continuous drive to expand knowledge and acquire new skills and learn new technologies.
+<p align="center" >### Hi there 👋, I'm Saleh,
+A tech enthusiast passionate about technology and web development with a continuous drive to expand knowledge and acquire new skills and learn new technologies.</p>
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=habtor&show_icons=true&theme=react&rank_icon=github&&&hide=stars,issues" alt="Anurag's GitHub stats">
