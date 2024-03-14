@@ -14,7 +14,7 @@ A tech enthusiast passionate about technology and web development with a continu
 
 
 <div align=center>
-  <img src="[https://skillicons.dev/icons?i=html,css,js,nodejs,npm,mysql,mongodb,react,tailwind,figma,git,kali,bash](https://streak-stats.demolab.com/?user=habtor)">
+  <img src="https://streak-stats.demolab.com/?user=habtor)">
 </div>
 <div align=center>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,mysql,mongodb,react,tailwind,figma,git,kali,bash">
