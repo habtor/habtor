@@ -21,7 +21,7 @@ A tech enthusiast passionate about technology and web development with a continu
 <h4 align="center" > Languages and technologies </h4>
 
 <div align=center>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,mysql,mongodb,react,tailwind,figma,git,kali,bash">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,mysql,mongodb,react,tailwind,figma,git,kali,bash&perline=4">
 </div>
 
 <h4 align="center" > Contact me </h4>
