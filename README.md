@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Saleh, a tech enthusiast passionate about technology and web development with a continuous drive to expand knowledge and acquire new skills and learn new technologies.
+### Hi there 👋, I'm Saleh,
+A tech enthusiast passionate about technology and web development with a continuous drive to expand knowledge and acquire new skills and learn new technologies.
 <!--
 **habtor/habtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
