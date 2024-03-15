@@ -16,7 +16,7 @@ A tech enthusiast passionate about technology and web development with a continu
 
 
 <div align=center>
-  <img src="https://streak-stats.demolab.com/?user=habtor)">
+  <img src="https://streak-stats.demolab.com/?user=habtor&theme=react">
 </div>
 <hr>
 
