@@ -2,7 +2,7 @@
 <p align="center">
 A tech enthusiast passionate about technology and web development with a continuous drive to expand knowledge and acquire new skills and learn new technologies.</p>
 <p align="left"><img style="width: 35px;" src="https://cdn-icons-png.flaticon.com/512/4185/4185714.png"> I’m currently learning: <img style="width: 35px;" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png"></p>
-<p align="left"><img style="width: 35px;" src="https://slackmojis.com/emojis/9543-heads-down/download"> I’m currently working on : <img style="width: 35px;" src="https://cdn.osxdaily.com/wp-content/uploads/2014/11/mac-messages-icon.jpg"> Chat-App (https://github.com/habtor/Chat-app)
+<p align="left"><img style="width: 35px;" src="https://slackmojis.com/emojis/9543-heads-down/download"> I’m currently working on : <img style="width: 35px;" src="https://cdn.osxdaily.com/wp-content/uploads/2014/11/mac-messages-icon.jpg"> Chat-App 
   
 </p>
 <hr>
