@@ -5,12 +5,18 @@
 <p align="center">
 A tech enthusiast passionate about technology and web development with a continuous drive to expand knowledge and acquire new skills and learn new technologies.</p>
 
-<p align="left"><img style="width: 35px;" src="https://cdn-icons-png.flaticon.com/512/4185/4185714.png"> I’m currently learning: <img style="width: 45px;" src="https://cdn.springpeople.com/media/HTML%20Canvas.png"></p>
-<p align="left"><img style="width: 35px;" src="https://slackmojis.com/emojis/9543-heads-down/download"> I’m currently working on : <img style="width: 35px;" src="https://cdn.osxdaily.com/wp-content/uploads/2014/11/mac-messages-icon.jpg"> Chat-App  
-</p>
+<img align="right"  style="width: 415px;" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
+
+ - <img style="width: 25px;" src="https://cdn-icons-png.flaticon.com/512/4185/4185714.png">  I’m currently learning: <img style="width: 25px;" src="https://cdn.springpeople.com/media/HTML%20Canvas.png">
+ - <img style="width: 25px;" src="https://slackmojis.com/emojis/9543-heads-down/download">  I’m currently working on: <img style="width: 25px;" src="https://cdn.osxdaily.com/wp-content/uploads/2014/11/mac-messages-icon.jpg">
 <hr>
+<h3 align="" > Languages and technologies </h3>
 
+<div align=left>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,mysql,mongodb,react,tailwind,figma,git,kali,bash&perline=8">
+</div>
+<hr>
 <div align="center">
   <h3>Stats</h3>
 </div>
@@ -28,12 +34,7 @@ A tech enthusiast passionate about technology and web development with a continu
 </div>
 <hr>
 
-<h3 align="center" > Languages and technologies </h3>
 
-<div align=center>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,mysql,mongodb,react,tailwind,figma,git,kali,bash&perline=5">
-</div>
-<hr>
 <div align="center">
   <u><h3>Contact me</h3></u>
 </div>
