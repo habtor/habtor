@@ -9,7 +9,7 @@ A tech enthusiast passionate about technology and web development with a continu
 
 
  - <img style="width: 25px;" src="https://cdn-icons-png.flaticon.com/512/4185/4185714.png">  I’m currently learning: <img style="width: 25px;" src="https://cdn.springpeople.com/media/HTML%20Canvas.png">
- - <img style="width: 25px;" src="https://slackmojis.com/emojis/9543-heads-down/download">  I’m currently working on: <img style="width: 25px;" src="https://cdn.osxdaily.com/wp-content/uploads/2014/11/mac-messages-icon.jpg">
+ - <img style="width: 25px;" src="https://slackmojis.com/emojis/9543-heads-down/download">  I’m currently working on: Chat-App <img style="width: 25px;" src="https://cdn.osxdaily.com/wp-content/uploads/2014/11/mac-messages-icon.jpg">
 <hr>
 <h3 align="" > Languages and technologies </h3>
 
