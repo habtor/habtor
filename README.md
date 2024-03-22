@@ -11,17 +11,6 @@ A tech enthusiast passionate about technology and web development with a continu
 
 <hr>
 
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1;">
-    <!-- Content on the left side -->
-    <p>This is some content on the left side.</p>
-  </div>
-  <div style="flex: 1;">
-    <!-- Content on the right side -->
-    <p>This is some content on the right side.</p>
-  </div>
-</div>
-
 <div align="center">
   <h3>Stats</h3>
 </div>
