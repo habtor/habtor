@@ -8,8 +8,8 @@ A tech enthusiast passionate about technology and web development with a continu
 <img align="right"  style="width: 415px;" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 
- - <img style="width: 25px;" src="https://cdn-icons-png.flaticon.com/512/4185/4185714.png">  I’m currently learning: **Socket.IO** <img style="width: 45px;" src="https://pbs.twimg.com/media/F47hKmVX0AAOU-c.png">
- - <img style="width: 25px;" src="https://slackmojis.com/emojis/9543-heads-down/download">  I’m currently working on: **Chat-App** <img style="width: 25px;" src="https://cdn.osxdaily.com/wp-content/uploads/2014/11/mac-messages-icon.jpg">
+ - <img style="width: 45px;" src="https://cdn-icons-png.flaticon.com/512/4185/4185714.png">  I’m currently learning: **Socket.IO** <img style="width: 45px;" src="https://pbs.twimg.com/media/F47hKmVX0AAOU-c.png">
+ - <img style="width: 45px;" src="https://slackmojis.com/emojis/9543-heads-down/download">  I’m currently working on: **Chat-App** <img style="width: 25px;" src="https://cdn.osxdaily.com/wp-content/uploads/2014/11/mac-messages-icon.jpg">
 <hr>
 <h3 align="" > Languages and technologies </h3>
 
@@ -27,13 +27,14 @@ A tech enthusiast passionate about technology and web development with a continu
 </div>
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=habtor&repo=Weather)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
-<div align=center>
-  <img src="https://streak-stats.demolab.com/?user=habtor&theme=react">
-</div>
 <hr>
 
+<!--<div align=center>
+    <img width="400" src="https://res.cloudinary.com/domvgm4cs/image/upload/v1713199416/APP_rrzzxp.png">
+    <img width="400" src="https://res.cloudinary.com/domvgm4cs/image/upload/v1713199416/APP_rrzzxp.png">
+</div>
+
+<hr>-->
 
 <div align="center">
   <u><h3>Contact me</h3></u>
