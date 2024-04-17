@@ -24,6 +24,7 @@ A tech enthusiast passionate about technology and web development with a continu
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=habtor&show_icons=true&theme=react&rank_icon=github&&&hide=issues" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habtor&size_weight=0.5&count_weight=0.5&theme=react&layout=compact" style="flex: 1;">
+    <img src="https://streak-stats.demolab.com/?user=habtor&&theme=react" style="flex: 1;">
 </div>
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=habtor&repo=Weather)](https://github.com/anuraghazra/github-readme-stats)-->
