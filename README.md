@@ -9,7 +9,7 @@ A tech enthusiast passionate about technology and web development with a continu
 
 
  - <img style="width: 45px;" src="https://cdn-icons-png.flaticon.com/512/4185/4185714.png">  I’m currently learning: **Jest** <img style="width: 45px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsjq7sVFvUjSJlECX_twxQsfPz-XrtqfvWipepWFGfEg&s">
- - <img style="width: 45px;" src="https://slackmojis.com/emojis/9543-heads-down/download">  I’m currently working on: **Gaming platform** <img style="width: 45px;" src="https://cdn.osxdaily.com/wp-content/uploads/2014/11/mac-messages-icon.jpg">
+ - <img style="width: 45px;" src="https://slackmojis.com/emojis/9543-heads-down/download">  I’m currently working on: **Gaming platform** <img style="width: 45px;" src="https://t3.ftcdn.net/jpg/05/99/53/58/360_F_599535831_pwQFVG0qtf6ksLXeVTnUwFMvoW5H0WiS.jpg">
 <hr>
 <h3 align="" > Languages and technologies </h3>
 
