@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/domvgm4cs/image/upload/v1711532502/site_design_12_eve9vn.jpg" />
 
-<h2 align="center" > Hi there 👋, I'm Saleh, </h2>
+<h2 align="center" > Hi there 👋, I'm Saleh,</h2>
 
 <p align="center">
 A tech enthusiast passionate about technology and web development with a continuous drive to expand knowledge and acquire new skills and learn new technologies.</p>
