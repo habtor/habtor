@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/domvgm4cs/image/upload/v1711532502/site_design_12_eve9vn.jpg" />
+<img src="https://res.cloudinary.com/domvgm4cs/image/upload/v1711532502/site_design_12_eve9vn.jpg"/>
 
 <h2 align="center" > Hi there 👋, I'm Saleh,</h2>
 
